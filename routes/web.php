@@ -1,0 +1,4 @@
+<?php
+
+// Login
+Auth::routes();
